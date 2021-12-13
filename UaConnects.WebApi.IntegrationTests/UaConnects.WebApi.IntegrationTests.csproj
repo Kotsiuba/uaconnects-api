@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\UaConnects.WebApi\UaConnects.WebApi.csproj" />
     <ProjectReference Include="..\UaConnects\UaConnects.WebApi.csproj" />
   </ItemGroup>
 
